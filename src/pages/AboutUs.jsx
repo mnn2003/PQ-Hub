@@ -81,7 +81,7 @@ const About = () => {
               Meet Aman Kumar <FontAwesomeIcon icon={faUserGraduate} />
             </h2>
             <p className="text-gray-600 bodyText dark:text-gray-300">
-              Hello there! I'm Aman Tiwari, but you might know me better as Sid. I'm currently pursuing a B.tech (CSE) Computer Science Engineering at KJ Somaiya (Mumbai). As a web developer, I'm deeply passionate about leveraging my coding skills to tackle real-world challenges.
+             Hello there! I'm Aman Tiwari, but you might know me better as Sid. I'm currently pursuing a Bachelor of Technology in Computer Science. As a web developer, I'm deeply passionate about leveraging my coding skills to tackle real-world challenges.
             </p>
           </section>
         </div>
