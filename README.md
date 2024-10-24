@@ -6,7 +6,7 @@
 PQ Hub, short for Past Questions Hub, is a project designed to address a common challenge faced by students. We understand the persistent challenge students face when it comes to finding and sharing past questions for exam preparations. That's why we're dedicated to eliminating the hassle and bringing past questions right to your fingertips.
 
 ### Meet Aman Kumar
-Hello there! I'm Aman Tiwari, but you might know me better as Sid. I'm currently pursuing a B.tech (CSE) Computer Science Engineering at KJ Somaiya (Mumbai). As a web developer, I'm deeply passionate about leveraging my coding skills to tackle real-world challenges.
+Hello there! I'm Aman Tiwari, but you might know me better as Sid. I'm currently pursuing a Bachelor of Technology in Computer Science. As a web developer, I'm deeply passionate about leveraging my coding skills to tackle real-world challenges.
 
 ### Inspiration Behind PQ Hub
 The inspiration for PQ Hub came from personal experience. As a student myself, along with my friends, I often found ourselves scrambling to gather past questions for exam preparations. Recognizing the universal nature of this challenge, I embarked on a mission to create a solution that would streamline the process for students.
